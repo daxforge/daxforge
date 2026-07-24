@@ -43,6 +43,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=daxforge&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxforge&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Daksh%20Pratap%20Singh%27s%20Contribution%20Graph" alt="Daksh's contribution graph" />
+</p>
 
                                                         ## 🐍 Contribution snake
 
