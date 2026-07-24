@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About me
+                                                      ## 👨‍💻 About me
 
 - 🎓 B.Tech CSE student
 - 🌱 Currently focused on **DSA in Java** and full-stack web development
@@ -27,13 +27,13 @@
 - 🤝 Open to collaborating on meaningful open-source projects
 - 📫 Reach me at **[pratapdaksh20@gmail.com](mailto:pratapdaksh20@gmail.com)**
 
-## 🛠️ Tech stack
+                                                      ## 🛠️ Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman,vercel,firebase&perline=9" alt="Technology icons" />
 </p>
 
-## 📊 GitHub stats
+                                                      ## 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=daxforge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daksh's GitHub statistics" />
@@ -44,7 +44,7 @@
   <img src="https://streak-stats.demolab.com?user=daxforge&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🐍 Contribution snake
+                                                        ## 🐍 Contribution snake
 
 <!-- The snake files are generated every day by .github/workflows/snake.yml. -->
 <picture>
@@ -53,13 +53,13 @@
   <img alt="Animated snake eating Daksh's GitHub contributions" src="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## 🚀 What I'm building
+                                                        ## 🚀 What I'm building
 
 - Full-stack applications with React, Next.js, Node.js, and MongoDB
 - Data structures and algorithms practice in Java
 - Practical projects that solve real-world problems
 
-## 🌐 Let's connect
+                                                         ## 🌐 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-pratap-singh-93a200384">
