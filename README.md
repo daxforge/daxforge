@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daxforge/daxforge/main/banner.png" alt="Daksh Pratap Singh — daxforge" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Daksh Pratap Singh 👋</h1>
 
 <p align="center">
