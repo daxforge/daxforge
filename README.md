@@ -17,23 +17,29 @@
   <img src="https://komarev.com/ghpvc/?username=daxforge&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
----
+<hr>
 
-                                                      ## 👨‍💻 About me
+<h1 align="center">👨‍💻 About Me</h1>
 
-- 🎓 B.Tech CSE student
-- 🌱 Currently focused on **DSA in Java** and full-stack web development
-- 💡 I enjoy building clean, efficient, user-friendly web applications
-- 🤝 Open to collaborating on meaningful open-source projects
-- 📫 Reach me at **[pratapdaksh20@gmail.com](mailto:pratapdaksh20@gmail.com)**
+<ul>
+  <li>🎓 B.Tech CSE student</li>
+  <li>🌱 Currently focused on <b>DSA in Java</b> and full-stack web development</li>
+  <li>💡 I enjoy building clean, efficient, user-friendly web applications</li>
+  <li>🤝 Open to collaborating on meaningful open-source projects</li>
+  <li>📫 Reach me at <b><a href="mailto:pratapdaksh20@gmail.com">pratapdaksh20@gmail.com</a></b></li>
+</ul>
 
-                                                      ## 🛠️ Tech stack
+<hr>
 
-<p>
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman,vercel,firebase&perline=9" alt="Technology icons" />
 </p>
 
-                                                      ## 📊 GitHub stats
+<hr>
+
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=daxforge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Daksh's GitHub statistics" />
@@ -43,6 +49,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=daxforge&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
+<hr>
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
