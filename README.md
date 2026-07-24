@@ -15,12 +15,11 @@
 - 🔭 I’m working on projects and improving my development skills
 - 🌱 Currently learning **Web Development, JavaScript, and Git**
 - 💡 Interested in **building useful apps and solving problems**
-- 📫 Reach me on: [LinkedIn](YOUR_LINKEDIN_URL)
-
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/daksh-pratap-singh-93a200384)
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,next.js" />
 </p>
 
 ## 📊 GitHub Stats
@@ -32,9 +31,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-pratap-singh-93a200384)[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratapdaksh20@gmail.com)
 ---
 
 <p align="center">Thanks for visiting! ⭐</p>
