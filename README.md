@@ -49,30 +49,31 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxforge&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Daksh%20Pratap%20Singh%27s%20Contribution%20Graph" alt="Daksh's contribution graph" />
 </p>
 
-                                                        ## 🐍 Contribution snake
+<hr>
 
-<!-- The snake files are generated every day by .github/workflows/snake.yml. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake eating Daksh's GitHub contributions" src="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<h1 align="center">🐍 Contribution Snake</h1>
 
-                                                        ## 🚀 What I'm building
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/daxforge/daxforge/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
-- Full-stack applications with React, Next.js, Node.js, and MongoDB
-- Data structures and algorithms practice in Java
-- Practical projects that solve real-world problems
+<hr>
 
-                                                         ## 🌐 Let's connect
+<h1 align="center">🌐 Let's Connect!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-pratap-singh-93a200384">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pratapdaksh20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<hr>
 
 <p align="center"><i>Always curious. Always shipping. 🚀</i></p>
