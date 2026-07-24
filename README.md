@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Daksh Pratap Singh 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daxforge/daxforge/main/image.png" alt="Daksh Pratap Singh — daxforge" width="100%" />
+</p>
+<h1 align="center">👋Hi, I'm Daksh Pratap Singh! </h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> · Open-Source Enthusiast · Problem Solver
@@ -18,7 +21,7 @@
 
 ## 👨‍💻 About me
 
-- 🎓 B.Tech CSE student at Galgotias University
+- 🎓 B.Tech CSE student
 - 🌱 Currently focused on **DSA in Java** and full-stack web development
 - 💡 I enjoy building clean, efficient, user-friendly web applications
 - 🤝 Open to collaborating on meaningful open-source projects
@@ -58,7 +61,7 @@
 
 ## 🌐 Let's connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/daksh-pratap-singh-93a200384">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
